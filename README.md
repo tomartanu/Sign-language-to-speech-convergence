@@ -15,10 +15,9 @@
 🔹 Mobile Device – Displays text and converts it into speech
 
 🌟 Key Features:
-✅ Real-time sign language recognition
 
-✅ Wireless and portable design
-
-✅ Enhances accessibility & inclusivity
+Real-time sign language recognition
+Wireless and portable design
+Enhances accessibility & inclusivity
 
 💡 Transforming gestures into voice – because communication should have no barriers! 🌍✨
