@@ -16,10 +16,10 @@
 
 🌟 Key Features:
 
-Real-time sign language recognition
+- Real-time sign language recognition
 
-Wireless and portable design
+- Wireless and portable design
 
-Enhances accessibility & inclusivity
+- Enhances accessibility & inclusivity
 
 💡 Transforming gestures into voice – because communication should have no barriers! 🌍✨
